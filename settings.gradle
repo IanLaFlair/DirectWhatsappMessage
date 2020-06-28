@@ -1,0 +1,2 @@
+rootProject.name='Direct Whatsaap Message'
+include ':app'
